@@ -1,0 +1,31 @@
+c:\users\jr\documents\visual studio 2012\Projects\LibraryHelp\LibraryHelp\bin\Debug\LibraryHelp.exe.config
+c:\users\jr\documents\visual studio 2012\Projects\LibraryHelp\LibraryHelp\bin\Debug\LibraryHelp.exe
+c:\users\jr\documents\visual studio 2012\Projects\LibraryHelp\LibraryHelp\bin\Debug\LibraryHelp.pdb
+c:\users\jr\documents\visual studio 2012\Projects\LibraryHelp\LibraryHelp\obj\Debug\LibraryHelp.csprojResolveAssemblyReference.cache
+c:\users\jr\documents\visual studio 2012\Projects\LibraryHelp\LibraryHelp\obj\Debug\LibraryHelp.csproj.ResolveComReference.cache
+c:\users\jr\documents\visual studio 2012\Projects\LibraryHelp\LibraryHelp\obj\Debug\LibraryHelp.Form1.resources
+c:\users\jr\documents\visual studio 2012\Projects\LibraryHelp\LibraryHelp\obj\Debug\LibraryHelp.Properties.Resources.resources
+c:\users\jr\documents\visual studio 2012\Projects\LibraryHelp\LibraryHelp\obj\Debug\LibraryHelp.csproj.GenerateResource.Cache
+c:\users\jr\documents\visual studio 2012\Projects\LibraryHelp\LibraryHelp\obj\Debug\LibraryHelp.exe
+c:\users\jr\documents\visual studio 2012\Projects\LibraryHelp\LibraryHelp\obj\Debug\LibraryHelp.pdb
+C:\Users\JR\Documents\Visual Studio 2012\Projects\LibraryHelp - 새시작\LibraryHelp\bin\Debug\LibraryHelp.exe.config
+C:\Users\JR\Documents\Visual Studio 2012\Projects\LibraryHelp - 새시작\LibraryHelp\bin\Debug\LibraryHelp.exe
+C:\Users\JR\Documents\Visual Studio 2012\Projects\LibraryHelp - 새시작\LibraryHelp\bin\Debug\LibraryHelp.pdb
+C:\Users\JR\Documents\Visual Studio 2012\Projects\LibraryHelp - 새시작\LibraryHelp\bin\Debug\gl-ES\LibraryHelp.resources.dll
+C:\Users\JR\Documents\Visual Studio 2012\Projects\LibraryHelp - 새시작\LibraryHelp\bin\Debug\gl\LibraryHelp.resources.dll
+C:\Users\JR\Documents\Visual Studio 2012\Projects\LibraryHelp - 새시작\LibraryHelp\obj\Debug\LibraryHelp.csproj.ResolveComReference.cache
+C:\Users\JR\Documents\Visual Studio 2012\Projects\LibraryHelp - 새시작\LibraryHelp\obj\Debug\LibraryHelp.Form1.resources
+C:\Users\JR\Documents\Visual Studio 2012\Projects\LibraryHelp - 새시작\LibraryHelp\obj\Debug\LibraryHelp.Properties.Resources.resources
+C:\Users\JR\Documents\Visual Studio 2012\Projects\LibraryHelp - 새시작\LibraryHelp\obj\Debug\LibraryHelp.Form1.gl-ES.resources
+C:\Users\JR\Documents\Visual Studio 2012\Projects\LibraryHelp - 새시작\LibraryHelp\obj\Debug\LibraryHelp.Form1.gl.resources
+C:\Users\JR\Documents\Visual Studio 2012\Projects\LibraryHelp - 새시작\LibraryHelp\obj\Debug\LibraryHelp.csproj.GenerateResource.cache
+C:\Users\JR\Documents\Visual Studio 2012\Projects\LibraryHelp - 새시작\LibraryHelp\obj\Debug\LibraryHelp.csproj.CoreCompileInputs.cache
+C:\Users\JR\Documents\Visual Studio 2012\Projects\LibraryHelp - 새시작\LibraryHelp\obj\Debug\gl-ES\LibraryHelp.resources.dll
+C:\Users\JR\Documents\Visual Studio 2012\Projects\LibraryHelp - 새시작\LibraryHelp\obj\Debug\gl\LibraryHelp.resources.dll
+C:\Users\JR\Documents\Visual Studio 2012\Projects\LibraryHelp - 새시작\LibraryHelp\obj\Debug\LibraryHelp.exe
+C:\Users\JR\Documents\Visual Studio 2012\Projects\LibraryHelp - 새시작\LibraryHelp\obj\Debug\LibraryHelp.pdb
+C:\Users\JR\Documents\Visual Studio 2012\Projects\LibraryHelp - 새시작\LibraryHelp\bin\Debug\HtmlAgilityPack.dll
+C:\Users\JR\Documents\Visual Studio 2012\Projects\LibraryHelp - 새시작\LibraryHelp\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\JR\Documents\Visual Studio 2012\Projects\LibraryHelp - 새시작\LibraryHelp\bin\Debug\HtmlAgilityPack.xml
+C:\Users\JR\Documents\Visual Studio 2012\Projects\LibraryHelp - 새시작\LibraryHelp\obj\Debug\LibraryHelp.csprojAssemblyReference.cache
+C:\Users\JR\Documents\Visual Studio 2012\Projects\LibraryHelp - 새시작\LibraryHelp\obj\Debug\LibraryHelp.csproj.CopyComplete
